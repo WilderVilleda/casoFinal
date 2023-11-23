@@ -11,6 +11,5 @@ yfinance
 datetime
 dash_bootstrap_components
 pyfolio
-scipy.stats
 matplotlib.pyplot
 math
