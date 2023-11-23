@@ -8,7 +8,7 @@ gunicorn
 plotly.express
 dash_bootstrap_components
 yfinance
-datatime
+datetime
 pypfopt
 pypfopt.efficient_frontier
 dash_bootstrap_components
