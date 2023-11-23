@@ -34,7 +34,7 @@ data = yf.download(stocks, start=fecha_inicial, end=fecha_final)["Adj Close"]
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 server=app.server
 
-app.title="Dashboard
+app.title="Dashboard"
 
 # Definir el diseño de la aplicación
 app.layout = html.Div([
