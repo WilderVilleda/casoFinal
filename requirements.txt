@@ -9,7 +9,6 @@ plotly.express
 dash_bootstrap_components
 yfinance
 datetime
-pypfopt
 pypfopt.efficient_frontier
 dash_bootstrap_components
 pyfolio
