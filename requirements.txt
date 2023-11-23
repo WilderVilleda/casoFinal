@@ -7,3 +7,13 @@ numpy
 gunicorn
 plotly.express
 dash_bootstrap_components
+yfinance
+datatime
+pypfopt
+pypfopt.efficient_frontier
+dash_bootstrap_components
+pyfolio
+warnings
+scipy.stats
+matplotlib.pyplot
+math
