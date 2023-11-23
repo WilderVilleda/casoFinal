@@ -11,5 +11,3 @@ yfinance
 datetime
 dash_bootstrap_components
 pyfolio
-matplotlib.pyplot
-math
